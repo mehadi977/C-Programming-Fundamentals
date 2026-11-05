@@ -1,0 +1,6 @@
+1.using scanf for string input=
+: normany scanf diye input nibo jodi kono space na thake, space thakle scanf input neoa bondho kore dei. 
+2.using fgets=
+: jokhon space soho peint korar proyojon tokhon fgets ba gets use korte hobe, fgets use korle enter sono print hobe.
+3.using gets= 
+: gets ar fgets eki kaj koere f gets enter soho print kore gets enter print kore na.

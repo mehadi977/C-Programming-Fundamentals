@@ -1,0 +1,3 @@
+Recursion : kono function jokhon nijei nijeke call kore kono kaj kore tokhon take recursion bole
+
+Recursive function : je function nijei nijeke call kore take bole recursive function

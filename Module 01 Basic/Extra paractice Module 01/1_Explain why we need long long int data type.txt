@@ -1,0 +1,5 @@
+1. Explain why we need long long it data type:
+Ans:
+An int data type can store only 4byte data its called 32bit data its only store 2^32 or 10^9 data.
+If we store more long date we need long long int data. We can store 8byte or 64bit data. its store 64 bit data.
+2^64 or 10^19 number of data we can store long long int.
