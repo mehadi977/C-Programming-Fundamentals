@@ -1,5 +1,0 @@
-1. numb
-2. _num
-3. num1
-4. num_1
-5. num_is
